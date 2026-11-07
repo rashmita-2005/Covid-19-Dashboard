@@ -18,6 +18,11 @@ An interactive Power BI report exploring COVID-19 data across three pages.
 - `Covid_19_Dashboard.pbix` – the report and data model
 - `README.md` – this file
 
+## Screenshots
+![Situation Overview](overveiw.png)
+![Trends & Momentum](trends.png)
+![Ratios & Health Metrics](ratios.png)
+
 ## Tech
 Power BI Desktop · DAX · Power Query
 
