@@ -22,4 +22,4 @@ An interactive Power BI report exploring COVID-19 data across three pages.
 Power BI Desktop · DAX · Power Query
 
 ## Author
-<your name> – <your LinkedIn / email>
+<Rashmita Nandi> – <rashmitanandi.05@gmail.com>
